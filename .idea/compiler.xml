@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Cinema_Room_Manager-task_main" target="11" />
+      <module name="Cinema_Room_Manager-task_test" target="11" />
+      <module name="Problems-Adding_values_main" target="11" />
+      <module name="Problems-Adding_values_test" target="11" />
+      <module name="Problems-Application_as_a_class_main" target="11" />
+      <module name="Problems-Application_as_a_class_test" target="11" />
+      <module name="Problems-Avoid_division_by_zero_main" target="11" />
+      <module name="Problems-Avoid_division_by_zero_test" target="11" />
+      <module name="Problems-Avoid_NPE_main" target="11" />
+      <module name="Problems-Avoid_NPE_test" target="11" />
+      <module name="Problems-Calculator_with_four_methods_main" target="11" />
+      <module name="Problems-Calculator_with_four_methods_test" target="11" />
+      <module name="Problems-Decompose_a_math_function_main" target="11" />
+      <module name="Problems-Decompose_a_math_function_test" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__main" target="11" />
+      <module name="Problems-Fixing_the_main_method__1__test" target="11" />
+      <module name="Problems-Fixing_the_main_method_main" target="11" />
+      <module name="Problems-Fixing_the_main_method_test" target="11" />
+      <module name="Problems-Get_first_and_last_elements_main" target="11" />
+      <module name="Problems-Get_first_and_last_elements_test" target="11" />
+      <module name="Problems-Out_of_bounds!_main" target="11" />
+      <module name="Problems-Out_of_bounds!_test" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_main" target="11" />
+      <module name="Problems-Return_empty_string_when_argument_is_null_test" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_main" target="11" />
+      <module name="Problems-Sum_of_numbers_in_the_range_test" target="11" />
+      <module name="Problems-The_sign_of_a_number_main" target="11" />
+      <module name="Problems-The_sign_of_a_number_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
